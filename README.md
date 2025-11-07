@@ -1,4 +1,6 @@
 # 🌍 Flask Real-Time Threat Map
+<img width="1648" height="768" alt="screenshot" src="https://github.com/user-attachments/assets/4b019d32-3def-4bcd-a1eb-268b3c771bc0" />
+
 
 A lightweight **Flask-based cybersecurity visualization platform** that displays **live global attack data** on an interactive world map.  
 It continuously collects threat intelligence from multiple **public IP feeds**, geolocates attackers in real time, and visualizes **animated attack lines** between sources and targets — complete with live statistics and a detailed event table.
