@@ -3,7 +3,7 @@
 
 
 A lightweight **Flask-based cybersecurity visualization platform** that displays **live global attack data** on an interactive world map.  
-It continuously collects threat intelligence from multiple **public IP feeds**, geolocates attackers in real time, and visualizes **animated attack lines** between sources and targets — complete with live statistics and a detailed event table.
+It continuously collects threat intelligence from multiple **public IP feeds**, geolocates attackers in real time, and visualizes **animated attack lines** between sources and targets - complete with live statistics and a detailed event table.
 
 ---
 
