@@ -87,5 +87,5 @@ Feel free to fork, modify, and integrate into your own educational or research t
 ---
 
 ### 💬 Credits
-Developed with ❤️ by **Abdallah Alkhatib**  
+Developed with ❤️ by **CyberWolf**  
 *Security Engineer | Trainer | Researcher*
